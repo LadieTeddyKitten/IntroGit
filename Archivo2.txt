@@ -1,3 +1,6 @@
-Otro triste tigre,
+/*      Este es un segundo archivo de texto para aprender el funcionamiento de GIT
+Padawan: Elizabeth Flores Garduño     */
 
+Otro triste tigre,
+Otro triste tigre,
 
