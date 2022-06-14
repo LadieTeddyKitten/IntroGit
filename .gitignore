@@ -1,0 +1,4 @@
+/* Archivos o rutas a ignorar */
+
+.env
+
